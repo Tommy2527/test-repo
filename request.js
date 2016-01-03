@@ -1,6 +1,7 @@
 'use strict'
-//Ajinkya Deshmukh
-
+<<<<<<< .mine//Ajinkya 123
+=======//Ajinkya Deshmukh
+>>>>>>> .theirs
 var http = require('http')
   , https = require('https')
   , url = require('url')
